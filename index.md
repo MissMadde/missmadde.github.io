@@ -1,8 +1,8 @@
 ---
 layout: custom
-title: Flisa Hedenhös
-author: Anders Sjunnesson
-webmaster: mati
+title: MissMadde
+author: Madelene
+webmaster: missmadde
 ---
 
 # Välkommen till min webbplats - {{ page.title }}
